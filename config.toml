@@ -1,6 +1,6 @@
-baseURL = 'https://based.cooking/'
+baseURL = 'https://m4rek.net/'
 languageCode = 'en-us'
-title = 'Based Cooking'
+title = 'm4rek'
 theme = 'lugo'
 
 [params]
